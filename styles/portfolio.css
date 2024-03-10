@@ -118,6 +118,9 @@ footer .social-links a:hover {
   color: var(--branding-color);
   background: white;
 }
+.text-center {
+  color: black;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
