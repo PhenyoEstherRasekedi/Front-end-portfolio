@@ -26,7 +26,7 @@ h1 {
 h2 {
   font-size: 64px;
 }
-h4 {
+h3 {
   font-size: 48px;
 }
 p {
@@ -90,9 +90,9 @@ footer .contact-box {
 }
 footer .contact-box p {
   margin: 0;
+  color: white;
 }
-footer h4,
-p {
+footer h3 {
   color: white;
 }
 footer .email-link {
@@ -126,7 +126,7 @@ footer .social-links a:hover {
   h2 {
     font-size: 44px;
   }
-  h4 {
+  h3 {
     font-size: 30px;
   }
   .btn {
